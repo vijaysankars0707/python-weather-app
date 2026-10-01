@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Task 4 - Weather App
 
 ## Setup
@@ -31,3 +32,7 @@ python weather_app.py
 The app deliberately reads the API key from an environment variable rather than hard-coding it. Do not publish your key in GitHub or screenshots.
 
 The forecast endpoint used here provides 3-hour forecast entries, so the "hourly" panel represents the next available forecast entries rather than six exact one-hour observations.
+=======
+# python-weather-app
+Python Weather App using Tkinter and OpenWeatherMap API
+>>>>>>> 3530738a2a07f632e931123b480160e0bc82b817
